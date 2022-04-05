@@ -1,0 +1,10 @@
+Anotações de aula:
+
+principais comandos GIT
+
+git push
+git status
+git commit -m"mensagem de alteração"
+git clone (https)
+cd nome do repositorio
+git .add
