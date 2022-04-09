@@ -1,0 +1,12 @@
+
+Criação de ambiente
+conda create -n <nome_environment> python=<versao python>
+exemplo: conda create -n leo python=3.7
+
+Proceed = y
+
+instalação do pandas/anaconda
+conda install -c anaconda pandas
+
+Procee = y
+
